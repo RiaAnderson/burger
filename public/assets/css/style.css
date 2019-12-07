@@ -1,0 +1,39 @@
+body {
+    background-image: url(../Img/burger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.418);
+}
+.jumbotron input{
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}
+.jumbotron button{
+    margin-top: 10px;
+    background-color: rgb(161, 37, 15);
+    border-color: rgb(87, 16, 16);
+    border-width: 10px;
+}
+
+.panel {
+    background-color: rgba(222, 184, 135, 0.418);
+}
+
+#lefthead, #righthead {
+    background-color: rgba(222, 184, 135, 0.657);
+}
+
+.btn {
+    background-color: rgb(161, 37, 15);
+    border-color: rgb(87, 16, 16);
+    border-width: 10px;
+    color: white;
+}
+
