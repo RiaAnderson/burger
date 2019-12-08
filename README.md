@@ -30,4 +30,4 @@ Ria Anderson - @RiaAnderson
  
 ## Version History
 * 0.1
-..* Initial Release https://riaanderson.github.io/burger/
+..* Initial Release https://burger-5.herokuapp.com/
